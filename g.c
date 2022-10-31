@@ -2,7 +2,7 @@
 void main(){
     float pi=3.14;
     short f=701;
-    int p;
+    int p,z;
     p=pi*f;
     printf("product=%d",p);
 }
